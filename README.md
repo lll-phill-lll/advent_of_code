@@ -23,6 +23,10 @@ Welcome to my Advent of Code solutions repository! Here, I'll be sharing interes
 	- **task.md**: Description of the task.
     - **solution.smth**: My solution to the problem.
 
+### Shared solutions
+
+1. [2023-02p1](2023/02) - solved by the compiler
+
 ## Selected Solutions
 
 I will only publish solutions that I find particularly interesting, challenging, or those that involve creative problem-solving. Short Python scripts without much complexity may not be included.
